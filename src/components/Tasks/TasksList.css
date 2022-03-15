@@ -1,0 +1,13 @@
+.items {
+    padding: 1rem;
+    background-color: rgb(31, 31, 31);
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+  }
+
+  .tasks-list__fallback {
+    color: white;
+    text-align: center;
+  }
